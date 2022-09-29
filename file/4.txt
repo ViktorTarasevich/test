@@ -1,0 +1,1346 @@
+[
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  },
+  {
+    "warehouseId": 0,
+    "warehouseName": "FWD",
+    "deliveryDate": "2022-09-23T09:34:22.484Z",
+    "offers": [
+      {
+        "goodId": 0,
+        "group": "DER21009",
+        "catalog": "string",
+        "cat": "string",
+        "name": "Топливный насос",
+        "models": "Peugeut",
+        "inbox": "false",
+        "actions": "string",
+        "num": "string",
+        "brand": "Urbanize",
+        "price": 12.4,
+        "currency": {
+          "name": "string"
+        },
+        "volume": "string",
+        "imageUrl": "string",
+        "analogs": [
+          "Yes"
+        ]
+      }
+    ]
+  }
+]

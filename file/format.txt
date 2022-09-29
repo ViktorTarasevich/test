@@ -1,0 +1,12 @@
+provider: DataTypes.STRING, // поставщик
+name: DataTypes.STRING, // название
+brand: DataTypes.STRING, // бренд
+in_stock: DataTypes.SMALLINT, // в налиии ???
+price: { // цена
+    type: DataTypes.FLOAT,
+},
+additional_info: DataTypes.TEXT, // доп описание которое не подходит в основным полям, в формате JSON
+articul: { // артикул
+    type: DataTypes.STRING,
+    primaryKey: true,
+},

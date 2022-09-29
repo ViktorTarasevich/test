@@ -1,0 +1,54 @@
+[
+  {
+    "article": {
+      "id": 1248288,
+      "code": "OC100",
+      "tradeMarkName": "KNECHT",
+      "name": "Фильтр масляный",
+      "description": "Замена - OC976. BX 82-93",
+      "unitOfMeasure": "ШТ"
+    },
+    "prices": [
+      {
+        "id": "EA0A241990CBE80CD928445ADB1146A81861AFA2B69CC0F1C59EEBCEA5B67A12608B2F0799466CC6B019C63056DDB2565D9E288D38DE21BCC5CB706019FF029E",
+        "articleId": 1248288,
+        "locationCode": "SHATE-01",
+        "locationCodeReal": "SHATE-01",
+        "type": "Internal",
+        "price": {
+          "value": 8.5,
+          "valueWithMargin": 8.5,
+          "valueRecommended": null,
+          "currencyCode": "USD"
+        },
+        "quantity": {
+          "available": 5,
+          "availableType": "Equal",
+          "multiplicity": 1,
+          "minimum": 1,
+          "maximum": null
+        },
+        "supplyProbability": {
+          "lastUpdateDateTime": "2022-09-23T09:12:48.943Z",
+          "rating": 99
+        },
+        "addInfo": {
+          "city": "Минск",
+          "isSale": true,
+          "comment": "Царапины справа",
+          "isReturnAllowed": true,
+          "warningText": "Возврат запрещен. Нельзя заказывать масла моторные и тех. жидкости"
+        },
+        "priority": 1,
+        "hash": 123456789,
+        "deliveryDateTimes": [
+          {
+            "deliveryAddressCode": "Д1",
+            "deliveryDateTime": "2022-09-23T09:12:48.943Z"
+          }
+        ],
+        "shippingDateTime": "2022-09-23T09:12:48.943Z"
+      }
+    ]
+  }
+]
